@@ -1,6 +1,5 @@
 # download and install Anaconda
-wget https://repo.continuum.io/archive/Anaconda3-5.1.0-Linux-x86_64.sh
-bash Anaconda3-5.0.1-Linux-x86_64.sh
+wget https://repo.continuum.io/archive/Anaconda3-5.1.0-Linux-x86_64.sh; bash Anaconda3-5.0.1-Linux-x86_64.sh
 
 # create anaconda environment
 conda create -n peacca python=3.6.4
