@@ -1,3 +1,12 @@
+# PEACCA
+
+This repository contains the implementation code used in the experiments of the following paper:
+
+Francisco Raposo, David Martins de Matos, Ricardo Ribeiro, Suhua Tang, Yi Yu, "Towards Deep Modeling of Music Semantics using EEG Regularizers", CoRR, vol. arXiv:1712.05197, 2017
+https://arxiv.org/pdf/1712.05197.pdf
+
+Please cite the previously mentioned article if you use PEACCA in your research and/or software.
+
 # download and install Anaconda
 wget https://repo.continuum.io/archive/Anaconda3-5.1.0-Linux-x86_64.sh; bash Anaconda3-5.0.1-Linux-x86_64.sh
 
